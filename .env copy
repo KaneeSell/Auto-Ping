@@ -1,0 +1,4 @@
+# Alterar o nome do arquivo para '.env'
+# Adicione aqui o alvo para ping:
+URL_API=""
+TEMP_PING_MIN="10"
